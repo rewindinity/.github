@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="../logo.png"  />
+  <img height="200" src="logo.png"  />
 </div>
 
 ###
@@ -8,6 +8,6 @@
 
 ###
 
-<p align="left">Welcome to the GitHub profile of **Rewindinity**, a project that develops open-source tools with a focus on privacy.</p>
+<p align="center">Welcome to the GitHub profile of <b>Rewindinity</b>, a project that develops open-source tools with a focus on privacy.</p>
 
 ###
